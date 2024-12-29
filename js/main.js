@@ -63,16 +63,6 @@ const productos = [
         },
         precio: 1000
     },
-    {
-        id: "lazo-05",
-        titulo: "Lazo 05",
-        imagen: "./img/Lazos/lazo05.jpg",
-        categoria: {
-            nombre: "Lazos",
-            id: "Lazos"
-        },
-        precio: 1000
-    },
 
     // Escolar
     {
